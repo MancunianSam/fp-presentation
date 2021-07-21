@@ -15,4 +15,3 @@ docker cp fp-with-cats.ipynb jupyter:/home/jovyan/work/fp-with-cats.ipynb
 ```
 
 You can then go to http://localhost:8888/ and follow the instructions to log into the notebook.
-
